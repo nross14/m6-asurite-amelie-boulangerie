@@ -16,6 +16,7 @@ header, footer {
 header {
     background-image: url(images/bowl.jpg);
     background-repeat: no-repeat;
+    background-position: right;
     height: 150px;
     background-color: #141a1a;
     color: white;
